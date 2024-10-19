@@ -1,0 +1,6 @@
+dependencies:
+scikit-learn
+xgboost
+hyperopt
+mlflow
+deepchecks
